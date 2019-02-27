@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RelaunchNotificationPeriod</key>
+	<string>10800000</string>
+	<key>RelaunchNotification</key>
+	<string>2</string>
+	<key>AllowOutdatedPlugins</key>
+	<false/>
+	<key>BookmarkBarEnabled</key>
+	<true/>
+	<key>BrowserGuestModeEnabled</key>
+	<false/>
+	<key>DeveloperToolsAvailability</key>
+	<integer>2</integer>
+	<key>ExtensionInstallBlacklist</key>
+	<array>
+		<string>*</string>
+	</array>
+	<key>ExtensionInstallForcelist</key>
+	<array>
+		<string>glnpjglilkicbckjpbgcfkogebgllemb;https://clients2.google.com/service/update2/crx</string>
+		<string>lpcaedmchfhocbbapmcbpinfpgnhiddi;https://clients2.google.com/service/update2/crx</string>
+		<string>ghbmnnjooekpmoecnnnilnnbdlolhkhi;https://clients2.google.com/service/update2/crx</string>
+		<string>pjkljhegncpnkpknbcohdijeoejaedia;https://clients2.google.com/service/update2/crx</string>
+		<string>aohghmighlieiainnegkcijnfilokake;https://clients2.google.com/service/update2/crx</string>
+		<string>felcaaldnbdncclmgdcncolpebgiejap;https://clients2.google.com/service/update2/crx</string>
+		<string>aapocclcgogkmnckokdopfmhonfmgoek;https://clients2.google.com/service/update2/crx</string>
+		<string>apdfllckaahabafndbhieahigkjlhalf;https://clients2.google.com/service/update2/crx</string>
+		<string>gbkeegbaiigmenfmjfclcdgdpimamgkj;https://clients2.google.com/service/update2/crx</string>
+		<string>idkloemkmldbemijiamdiolojbffnjlh;https://clients2.google.com/service/update2/crx</string>
+	</array>
+	<key>ExtensionInstallWhitelist</key>
+	<array>
+		<string>glnpjglilkicbckjpbgcfkogebgllemb</string>
+		<string>lpcaedmchfhocbbapmcbpinfpgnhiddi</string>
+		<string>ghbmnnjooekpmoecnnnilnnbdlolhkhi</string>
+		<string>pjkljhegncpnkpknbcohdijeoejaedia</string>
+		<string>aohghmighlieiainnegkcijnfilokake</string>
+		<string>felcaaldnbdncclmgdcncolpebgiejap</string>
+		<string>aapocclcgogkmnckokdopfmhonfmgoek</string>
+		<string>apdfllckaahabafndbhieahigkjlhalf</string>
+		<string>hdokiejnpimakedhajhdlcegeplioahd</string>
+		<string>jlhmfgmfgeifomenelglieieghnjghma</string>
+		<string>iljnkagajgfdmfnnidjijobijlfjfgnb</string>
+	</array>
+	<key>HomepageIsNewTabPage</key>
+	<false/>
+	<key>HomepageLocation</key>
+	<string>https://postremoit.co.uk</string>
+	<key>IncognitoModeAvailability</key>
+	<integer>1</integer>
+	<key>ManagedBookmarks</key>
+	<array>
+		<dict>
+			<key>toplevel_name</key>
+			<string>Work Bookmarks</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Forced Bookmark 1</string>
+			<key>url</key>
+			<string>https://postremoit.co.uk</string>
+		</dict>
+	</array>
+	<key>NewTabPageLocation</key>
+	<string>https://postremoit.co.uk</string>
+	<key>RestoreOnStartup</key>
+	<integer>1</integer>
+	<key>RestoreOnStartupURLs</key>
+	<array>
+		<string>https://postremoit.co.uk</string>
+	</array>
+	<key>RestrictSigninToPattern</key>
+	<string></string>
+	<key>ShowAppsShortcutInBookmarkBar</key>
+	<true/>
+	<key>ShowHomeButton</key>
+	<true/>
+	<key>PasswordManagerEnabled</key>
+	<false/>
+</dict>
+</plist>
